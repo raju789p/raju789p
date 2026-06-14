@@ -14,98 +14,13 @@ Over the past two years, I've gone from curiosity to shipping — building produ
 
 ### 🤖 Core Expertise
 
-**Python • Machine Learning • NLP • Generative AI • AI Agents • RAG Pipelines • Vector-less RAG • LLM Integration • FastAPI • Streamlit • MongoDB**
+**Python • Machine Learning • NLP • Generative AI • AI Agents • Agentic AI • RAG Pipelines • Vector-less RAG • LLM Integration • FastAPI • Streamlit • MongoDB**
 
 ### 🎯 Looking For
 
 I'm actively seeking **Software Engineering, AI/ML, and Generative AI opportunities** where I can contribute to building impactful products and scalable AI systems.
 
 Let's connect if you're building something interesting with AI 🚀
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 LogSense AI
-
-**AI-Powered Log Classification & Analysis System**
-
-* Built an intelligent log analysis platform capable of automatically classifying and organizing system logs.
-* Reduced manual log inspection effort through AI-driven categorization.
-* Designed for scalability across enterprise-scale monitoring environments.
-
-**Tech:** Python, Machine Learning, NLP
-
----
-
-### 🔹 QuantumQuery.AI
-
-**Natural Language to SQL Analytics Platform**
-
-* Developed an AI-powered solution that converts natural language questions into SQL queries.
-* Enables non-technical users to retrieve business insights directly from databases.
-* Built and demonstrated as a real-world business intelligence solution.
-
-**Tech:** GenAI, LLMs, Prompt Engineering, SQL, FastAPI
-
----
-
-### 🔹 QuantumLens
-
-**AI Research Analyst & Conversational Intelligence Platform**
-
-* Built an intelligent research assistant capable of analyzing large volumes of content and answering contextual questions.
-* Designed to simplify information retrieval and accelerate research workflows.
-* Developed for real-world use cases involving knowledge discovery and document understanding.
-
-**Tech:** RAG Pipelines, LLM Integration, NLP, Python
-
----
-
-### 🔹 Smart Complaint System
-
-**AI-Driven Complaint Management Platform**
-
-* Developed a smart complaint registration and tracking system.
-* Streamlined complaint handling workflows and improved transparency.
-* Built scalable backend architecture with cloud-ready deployment capabilities.
-
-**Tech:** Java, SQL, Web Technologies
-
----
-
-### 🔹 AI Research Paper Explainer Agent
-
-**Multi-Agent Research Understanding System**
-
-* Built an advanced AI agent capable of simplifying complex research papers into understandable insights.
-* Generates summaries, key findings, and contextual explanations.
-
-**Tech:** GenAI, AI Agents, RAG, LangChain
-
----
-
-## 🏆 Achievements
-
-* 🏆 Smart India Hackathon (SIH) 2025 Finalist
-* 🥇 2× First Place Hackathon Winner
-* 🏅 AQVH Finalist
-* 🏅 Multiple Podium Finishes in National-Level Hackathons
-* 💡 Best Startup Idea Winner
-* 🤝 Founder & Lead, QuantumSprouts
-* 🔬 Built AI Proof-of-Concepts for Industry Use Cases
-
----
-
-## 📈 Currently Exploring
-
-* 🤖 Agentic AI Systems
-* 🧠 Advanced RAG Architectures
-* 🔍 Vector-less Retrieval Techniques
-* ⚡ LLM Optimization & Prompt Engineering
-* ☁️ Cloud-Native AI Deployments
-* 🧬 Quantum Machine Learning
-* 🔗 MCP (Model Context Protocol)
 
 ---
 
@@ -118,26 +33,54 @@ Let's connect if you're building something interesting with AI 🚀
 
 ## 💻 Tech Stack
 
+### 🤖 AI / GenAI
+
 ![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-2E86C1?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-34495E?style=for-the-badge)
 ![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-00A67E?style=for-the-badge)
 ![Vector-less RAG](https://img.shields.io/badge/Vectorless_RAG-8E44AD?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-0E7490?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-4F46E5?style=for-the-badge)
+![LangFuse](https://img.shields.io/badge/LangFuse-DC2626?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF5733?style=for-the-badge)
 ![System Prompting](https://img.shields.io/badge/System_Prompting-6C3483?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-2563EB?style=for-the-badge)
+
+### 👨‍💻 Programming
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
 
+### 🧠 Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+
+### 🌐 Backend & Databases
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)
+
+### ☁️ Cloud & Deployment
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge\&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
+
+### ⚙️ Tools
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge\&logo=githubactions\&logoColor=white)
 
 ---
 
