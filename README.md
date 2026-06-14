@@ -7,7 +7,7 @@ Over the past two years, I've gone from curiosity to shipping — building produ
 ### 🏆 Highlights
 
 * 🏆 Smart India Hackathon (SIH) 2025 Finalist — Ministry of Jal Shakti
-* 🥇 2× First Place Hackathon Winner
+* 🥇 4x Hackathon Winner
 * 🏅 AQVH Finalist + Multiple Podium Finishes at National & College-Level Competitions
 * 🔬 Built Industrial Proof-of-Concepts (POCs) for Real Companies using AI
 * 🤝 Founder & Lead of QuantumSprouts — a student-driven community focused on AI, Cloud, and Innovation
