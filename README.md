@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 
 Hey, I'm **Appala Raju** — a 3rd-year Computer Science undergraduate from Visakhapatnam with a deep obsession for building AI that actually works in the real world.
 
@@ -22,12 +22,101 @@ I'm actively seeking **Software Engineering, AI/ML, and Generative AI opportunit
 
 Let's connect if you're building something interesting with AI 🚀
 
-## 🌐 Socials:
+---
+
+## 🚀 Featured Projects
+
+### 🔹 LogSense AI
+
+**AI-Powered Log Classification & Analysis System**
+
+* Built an intelligent log analysis platform capable of automatically classifying and organizing system logs.
+* Reduced manual log inspection effort through AI-driven categorization.
+* Designed for scalability across enterprise-scale monitoring environments.
+
+**Tech:** Python, Machine Learning, NLP
+
+---
+
+### 🔹 QuantumQuery.AI
+
+**Natural Language to SQL Analytics Platform**
+
+* Developed an AI-powered solution that converts natural language questions into SQL queries.
+* Enables non-technical users to retrieve business insights directly from databases.
+* Built and demonstrated as a real-world business intelligence solution.
+
+**Tech:** GenAI, LLMs, Prompt Engineering, SQL, FastAPI
+
+---
+
+### 🔹 QuantumLens
+
+**AI Research Analyst & Conversational Intelligence Platform**
+
+* Built an intelligent research assistant capable of analyzing large volumes of content and answering contextual questions.
+* Designed to simplify information retrieval and accelerate research workflows.
+* Developed for real-world use cases involving knowledge discovery and document understanding.
+
+**Tech:** RAG Pipelines, LLM Integration, NLP, Python
+
+---
+
+### 🔹 Smart Complaint System
+
+**AI-Driven Complaint Management Platform**
+
+* Developed a smart complaint registration and tracking system.
+* Streamlined complaint handling workflows and improved transparency.
+* Built scalable backend architecture with cloud-ready deployment capabilities.
+
+**Tech:** Java, SQL, Web Technologies
+
+---
+
+### 🔹 AI Research Paper Explainer Agent
+
+**Multi-Agent Research Understanding System**
+
+* Built an advanced AI agent capable of simplifying complex research papers into understandable insights.
+* Generates summaries, key findings, and contextual explanations.
+
+**Tech:** GenAI, AI Agents, RAG, LangChain
+
+---
+
+## 🏆 Achievements
+
+* 🏆 Smart India Hackathon (SIH) 2025 Finalist
+* 🥇 2× First Place Hackathon Winner
+* 🏅 AQVH Finalist
+* 🏅 Multiple Podium Finishes in National-Level Hackathons
+* 💡 Best Startup Idea Winner
+* 🤝 Founder & Lead, QuantumSprouts
+* 🔬 Built AI Proof-of-Concepts for Industry Use Cases
+
+---
+
+## 📈 Currently Exploring
+
+* 🤖 Agentic AI Systems
+* 🧠 Advanced RAG Architectures
+* 🔍 Vector-less Retrieval Techniques
+* ⚡ LLM Optimization & Prompt Engineering
+* ☁️ Cloud-Native AI Deployments
+* 🧬 Quantum Machine Learning
+* 🔗 MCP (Model Context Protocol)
+
+---
+
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/rajuprofile/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:appalaraju7070@gmail.com)
 
-# 💻 Tech Stack:
+---
+
+## 💻 Tech Stack
 
 ![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
@@ -42,45 +131,13 @@ Let's connect if you're building something interesting with AI 🚀
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge\&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge\&logo=gitlab\&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge\&logo=netlify\&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=raju789p\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=raju789p\&theme=dark\&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=raju789p\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=raju789p\&theme=dark\&no-frame=false\&no-bg=false\&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)
 
 ---
 
