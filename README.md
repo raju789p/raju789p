@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hey, I'm **Appala Raju** — a 3rd-year Computer Science undergraduate from Visakhapatnam with a deep obsession for building AI that actually works in the real world.
+Hey, I'm **Appala Raju** — a final year Computer Science undergraduate from Visakhapatnam with a deep obsession for building AI that actually works in the real world.
 
 Over the past two years, I've gone from curiosity to shipping — building production-grade AI/ML pipelines, GenAI systems with RAG architectures, and exploring Quantum ML. I don't just experiment; I build solutions that solve real problems.
 
